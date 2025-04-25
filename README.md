@@ -73,4 +73,4 @@ To modify the script for your needs:
 - Modify the expiration time (currently 3000 seconds) as needed
 
 ## TODO app for RDS and EC2 connection
-[TODO app repository]([https://www.genome.gov/](https://github.com/utsavmeh/aws-learning-TODO-app))
+[TODO app repository](https://github.com/utsavmeh/aws-learning-TODO-app)
