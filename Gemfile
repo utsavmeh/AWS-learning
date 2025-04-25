@@ -2,5 +2,5 @@
 
 source "https://rubygems.org"
 
-# gem "rails"
+gem "rails"
 gem 'aws-sdk-s3', '~> 1.183'
