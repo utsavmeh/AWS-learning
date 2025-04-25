@@ -30,29 +30,12 @@ export AWS_SECRET_ACCESS_KEY=your_secret_key
 export AWS_REGION=ap-south-1
 ```
 
-### 3. Shared Credentials File
-
-Create or edit the file `~/.aws/credentials`:
-
-```
-[default]
-aws_access_key_id = your_access_key
-aws_secret_access_key = your_secret_key
-```
-
-And `~/.aws/config`:
-
-```
-[default]
-region = ap-south-1
-```
-
 ## Dependencies
 
 This script requires the following gems:
 
 ```bash
-gem install aws-sdk-s3
+bundle install
 ```
 
 ## Usage
